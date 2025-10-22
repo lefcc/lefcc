@@ -30,8 +30,6 @@ My expertise is rooted in the Full-Stack Java development stack.
 [My LinkedIn](https://www.linkedin.com/in/leticiafccampos/)
 
 
-
-***
 ---
 
 
